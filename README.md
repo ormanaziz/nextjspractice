@@ -1,0 +1,2 @@
+# nextjspractice
+nextjs self practice
